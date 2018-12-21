@@ -1,0 +1,20 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+  },
+  "variants": {
+    "normal": [{
+    }],
+    "inventory": [{
+      "model": "forgebug:grabber1_combo"
+    }],
+    "static": {
+      "true": {
+        "model": "forgebug:grabber_base"
+      },
+      "false": {
+        "model": "forgebug:grabber1"
+      }
+    }
+  }
+}

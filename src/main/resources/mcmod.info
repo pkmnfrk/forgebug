@@ -1,0 +1,14 @@
+[
+{
+  "modid": "forgebug",
+  "name": "ForgeBug",
+  "description": "A sample mod to demonstrate individual forge issues",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/pkmnfrk/forgebug",
+  "updateUrl": "",
+  "authorList": [ "pkmnfrk" ],
+  "parent": "",
+  "screenshots": []
+}
+]
